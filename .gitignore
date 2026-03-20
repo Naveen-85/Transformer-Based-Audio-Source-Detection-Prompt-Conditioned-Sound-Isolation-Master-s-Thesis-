@@ -1,0 +1,25 @@
+myenv/
+.ipynb_checkpoints/
+logs/
+checkpoints/
+generated_audio/
+# virtual environment
+myenv/
+
+# python cache
+__pycache__/
+*.pyc
+
+# notebooks checkpoints
+.ipynb_checkpoints/
+
+# model/data outputs
+checkpoints/
+generated_audio/
+inference_audio/
+metrics_results2/
+
+# OS / temp files
+.DS_Store
+Thumbs.db
+~$*.pptx
